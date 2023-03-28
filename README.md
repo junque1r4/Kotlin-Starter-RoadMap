@@ -1,6 +1,6 @@
 # Kotlin Starter RoadMap
 
-Este RoadMap foi feito para uma pessoa muito especíal mas sinta-se à vontade de usar e contribuir!
+Este RoadMap foi feito para uma pessoa muito especial [(Mila)](https://github.com/httpsmilenar) mas sinta-se à vontade para usar e contribuir!
 
 Deixo bem claro a importância de praticar todos os conceitos, você encontrará links úteis ao final da lista. Não adicionei nenhum link específico em cada conceito pois é parte fundamental do desenvolvimento saber pesquisar por conta própria.
 
